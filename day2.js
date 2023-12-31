@@ -106,3 +106,13 @@
 //     }
 // }
 // console.log(ball-missingball);
+
+
+// Q1. Find how many even numbers are in a range.
+// range => 2 - 30 
+
+// Q2. Iterate number between range 3 to 60 and print hello when there is a number divisible by 3
+//  hello 4 5 hello 7 8 hello 
+
+// Q3. iterate numbers between range and skip that numbers which is divisible by 7 
+//  range 10 to 50
